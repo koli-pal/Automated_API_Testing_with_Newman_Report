@@ -240,3 +240,7 @@ newman run API_Testing.postman_collection.json -e API_Testing.postman_environmen
 ```
 
 ## Newman Report Summary:
+![Newman Report Summary](https://github.com/user-attachments/assets/023be5f0-3fab-4ec3-8202-0e28371d9710)
+![Newman Report Summary](https://github.com/user-attachments/assets/7be20c05-8dbf-4ad8-bb71-72d81a8fe824)
+![Newman Report Summary](https://github.com/user-attachments/assets/f97cff1a-2e05-49bd-9d9f-9017586d1512)
+![Newman Report Summary](https://github.com/user-attachments/assets/6253be08-ddcb-414e-9666-9984d453626e)
